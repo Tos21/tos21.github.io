@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tos21 Blog",
+    "description": "",
+    "home_page_url": "https://tos21.github.io",
+    "feed_url": "https://tos21.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://tos21.github.io/media/website/logo.jpg",
+    "author": {
+        "name": "yaphet"
+    },
+    "items": [
+        {
+            "id": "https://tos21.github.io/resume.html",
+            "url": "https://tos21.github.io/resume.html",
+            "title": "RESUME",
+            "summary": "个人简历 基础信息 Markdown Image and Text Side by Side .container { display: flex; } .text, .image { flex: 1; /* Each takes up an equal amount of space */ padding: 10px; /* Add some padding */ } .image { text-align: center; /* Center the image&hellip;",
+            "content_html": "<h1 id=\"个人简历\">个人简历</h1>\n<h2 id=\"基础信息\">基础信息</h2>\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Markdown Image and Text Side by Side</title>\n<style>\n  .container {\n    display: flex;\n  }\n  .text, .image {\n    flex: 1; /* Each takes up an equal amount of space */\n    padding: 10px; /* Add some padding */\n  }\n  .image {\n    text-align: center; /* Center the image */\n  }\n</style>\n</head>\n<body>\n\n<div class=\"container\">\n  <div class=\"text\">\n    <p>\n<ul>\n<li>姓名：叶利泰</li>\n<li>年龄：25</li>\n<li>邮箱：yeltr21@163.com</li>\n<li>电话：15717082021</li>\n<li>意向：设备维护/硬件工程师助理/电气技术员</li>\n<ul>\n    </p>\n  </div>\n  <div class=\"image\">\n    <img loading=\"lazy\" src=\"https://files.mdnice.com/user/42640/8c15bed5-ed0a-4ea2-8983-36fbce386ea2.jpg\" data-is-external-image=\"true\">\n  </div>\n</div>\n\n</body>\n</html>\n\n<h2 id=\"教育背景\">教育背景</h2>\n<ul>\n<li><strong>东华理工大学</strong>，自动化，工学学士，2022.09-2024.07</li>\n<li>主修课程：自控原理、电机与电力拖动、电力电子、电气控制与PLC、单片机应用、复变函数、线性代数</li>\n<li>江西冶金职业技术学院，机电一体化技术，2019.09-2022.06</li>\n<li>主修课程：机械制图、机械设计、制造、电工电子、机床控制电路与PLC、电机与变压器</li>\n</ul>\n<h2 id=\"实习经历\">实习经历</h2>\n<ul>\n<li>深圳市翼展机械电子科技有限公司，设备维护技术员，2024.02-2024.03<ul>\n<li>设备日常维护与保养：每日检查设备并定期保养，预防故障。设备故障率下降15%，生产效率提升10%。学习了设备维护与保养技能。</li>\n<li>生产设备故障检修：迅速诊断和修复设备故障，平均故障处理时间减少至30分钟以内。有效降低了停机时间，提高了生产线连续性。提升了故障诊断和快速解决问题的能力。</li>\n<li>系统调试及线路安装：配合运维工程师进行系统调试及线路安装，成功完成3次工作任务。增强了对生产设备的理解和操作技能。学会了系统调试与安装操作流程。</li>\n</ul>\n</li>\n</ul>\n<h2 id=\"项目经历\">项目经历</h2>\n<ul>\n<li>家庭空气环境监测系统设计，2024.03-2024.06<ul>\n<li>基于ESP32控制空气质量传感器，通过I2C协议采集数据，实现了室内温湿度、二氧化碳、PM2.5及有害气体的实时监测。</li>\n<li>基于Android Studio开发的客户端应用，通过WIFI与阿里云物联网平台基于MQTT协议的连接订阅，实现了检测数据远程传输与自动控制。</li>\n</ul>\n</li>\n<li>基于PLC控制的AGV小车自动送料系统，2021.11-2021.12<ul>\n<li>基于西门子S7-200 PLC，实现了控制系统功能模块化，确定系统运行及控制方式。</li>\n<li>集成以PLC为核心的控制模块，24V直流电源模块，磁导航传感器模块，基于DSP的差速驱动单元模块，障碍传感器模块，编写梯形图控制程序，实现AGV运料小车沿磁轨自动运行及避障。</li>\n</ul>\n</li>\n</ul>\n<h2 id=\"技能证书\">技能证书</h2>\n<ul>\n<li>专业技能：<ul>\n<li>能进行简单的电气设备安装与调试，操作自动化生产设备部件，进行弱电器件的更换与维护。</li>\n<li>熟悉AD19和立创EDA工具，能独立完成四层PCB板设计、打样与电子元器件焊接工作，具备元件选型经验和实际操作能力；</li>\n<li>能进行西门子1200PLC 的基础编程，及HMI人机交互界面的设计与仿真，具备从理论到实践的一体化技能。</li>\n</ul>\n</li>\n<li>语言能力：CET-4，普通话二乙</li>\n<li>相关证书：电工三级（高级）、SYB培训证书、一等奖学金、三等奖学金</li>\n</ul>\n",
+            "author": {
+                "name": "yaphet"
+            },
+            "tags": [
+                   "resume"
+            ],
+            "date_published": "2024-07-12T15:36:03+08:00",
+            "date_modified": "2024-07-12T15:36:03+08:00"
+        }
+    ]
+}
